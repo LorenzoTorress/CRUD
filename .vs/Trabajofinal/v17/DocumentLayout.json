@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\usuario\\source\\repos\\Trabajofinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA814A2D-EAAB-4332-AFCD-28CEBB41D6BD}|Trabajofinal.csproj|c:\\users\\usuario\\source\\repos\\trabajofinal\\datos\\datosusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA814A2D-EAAB-4332-AFCD-28CEBB41D6BD}|Trabajofinal.csproj|solutionrelative:datos\\datosusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA814A2D-EAAB-4332-AFCD-28CEBB41D6BD}|Trabajofinal.csproj|c:\\users\\usuario\\source\\repos\\trabajofinal\\interfaces\\iaccesoadatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA814A2D-EAAB-4332-AFCD-28CEBB41D6BD}|Trabajofinal.csproj|solutionrelative:interfaces\\iaccesoadatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA814A2D-EAAB-4332-AFCD-28CEBB41D6BD}|Trabajofinal.csproj|c:\\users\\usuario\\source\\repos\\trabajofinal\\clases\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA814A2D-EAAB-4332-AFCD-28CEBB41D6BD}|Trabajofinal.csproj|solutionrelative:clases\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA814A2D-EAAB-4332-AFCD-28CEBB41D6BD}|Trabajofinal.csproj|c:\\users\\usuario\\source\\repos\\trabajofinal\\interfaces\\iabmc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA814A2D-EAAB-4332-AFCD-28CEBB41D6BD}|Trabajofinal.csproj|solutionrelative:interfaces\\iabmc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA814A2D-EAAB-4332-AFCD-28CEBB41D6BD}|Trabajofinal.csproj|c:\\users\\usuario\\source\\repos\\trabajofinal\\clases\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA814A2D-EAAB-4332-AFCD-28CEBB41D6BD}|Trabajofinal.csproj|solutionrelative:clases\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatosUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\Trabajofinal\\Datos\\DatosUsuarios.cs",
+              "RelativeDocumentMoniker": "Datos\\DatosUsuarios.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\Trabajofinal\\Datos\\DatosUsuarios.cs",
+              "RelativeToolTip": "Datos\\DatosUsuarios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T06:57:27.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAccesoADatos.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\Trabajofinal\\Interfaces\\IAccesoADatos.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IAccesoADatos.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\Trabajofinal\\Interfaces\\IAccesoADatos.cs",
+              "RelativeToolTip": "Interfaces\\IAccesoADatos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T06:55:46.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IABMC.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\Trabajofinal\\Interfaces\\IABMC.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IABMC.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\Trabajofinal\\Interfaces\\IABMC.cs",
+              "RelativeToolTip": "Interfaces\\IABMC.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T06:40:47.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\Trabajofinal\\Clases\\Usuario.cs",
+              "RelativeDocumentMoniker": "Clases\\Usuario.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\Trabajofinal\\Clases\\Usuario.cs",
+              "RelativeToolTip": "Clases\\Usuario.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAHcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T06:29:09.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Carrera.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\Trabajofinal\\Clases\\Carrera.cs",
+              "RelativeDocumentMoniker": "Clases\\Carrera.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\Trabajofinal\\Clases\\Carrera.cs",
+              "RelativeToolTip": "Clases\\Carrera.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T06:24:23.209Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
